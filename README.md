@@ -7,4 +7,4 @@ Simply follow these steps:
 - Open a new terminal
 - cd to the download directory
 - run bash file: 
->. ros_install.bash
+>. ros_install
